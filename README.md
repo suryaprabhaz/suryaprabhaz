@@ -37,10 +37,10 @@
 <details> 
   <summary>See what I'm silently building 👀</summary>
 
-  🚀 [**FlixOrbit**](https://flixorbit.netlify.app)  
+  🚀 [**FlixOrbit**](https://github.com/suryaprabhaz/flixorbit)  
   🎬 A movie tracker app with modern UI & minimal design. Track films, rate, and explore — built with HTML/CSS/JS.
 
-  💘 [**CrushCompass**](https://crushcompass.netlify.app)  
+  💘 [**CrushCompass**](https://github.com/suryaprabhaz/crushcompass)  
   💌 A spicy anonymous message app – Send & receive crush confessions secretly! Made with fun & love.
 
   ...more loading. DM for demos or collabs! 😎
