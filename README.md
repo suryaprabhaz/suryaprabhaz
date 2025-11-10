@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzObAqLh4GR0/giphy.gif" width="30px"/> I'm <span style="color:#0078d7">Phanindra Surya Prabhas</span> 👋
+  Hi there!  I'm <span style="color:#0078d7">Phanindra Surya Prabhas</span> 👋
 </h1>
 
 <h3 align="center">
