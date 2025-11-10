@@ -21,10 +21,10 @@
 
 ### 👨‍💻 About Me
 
--   🎓 I'm a **2nd-year B.Tech CSE (AIDS) student** at **SCSVMV University**, constantly exploring the depths of computer science.
--   🕹️ When I'm not coding, you'll find me engaging in late-night **Free Fire** battles or deep-diving into **systems architecture, machine learning, and robust backend development.**
--   💡 My passion lies in building scalable and efficient solutions that make a real impact.
--   ✉️ Feel free to reach out for collaborations or just to chat: **suryaprabhas83@gmail.com**
+- 🎓 **2nd-year B.Tech CSE (AIDS)** student at **SCSVMV University**, exploring the depths of computer science.  
+- 💡 Passionate about building scalable, efficient solutions and writing clean, logical code.  
+- 🕹️ Off-code time = late-night **Free Fire** sessions or deep dives into **ML models and backend architecture**.  
+- ✉️ Reach out: **suryaprabhas83@gmail.com**
 
 ---
 
@@ -47,13 +47,13 @@
 
   #### 💘 [**CrushCompass**](https://github.com/suryaprabhaz/crushcompass)
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-red?style=for-the-badge"/>
-  💌 A fun and anonymous message app where you can send and receive secret crush confessions! Built with a focus on user experience.
+  💌 A fun and anonymous message app where users can send and receive secret crush confessions. Focused on smooth UI/UX.
 
   ---
 
   <p align="center">
-    ...more projects are currently under development. <br>
-    Feel free to DM me for demos or collaboration opportunities! 😎
+    ...more projects are under development.<br>
+    DM me for demos or collabs! 😎
   </p>
 </details>
 
@@ -62,12 +62,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprabhaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="suryaprabhaz GitHub Stats" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprabhaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="46%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=suryaprabhaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="46%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprabhaz&theme=tokyonight" alt="GitHub Profile Details" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprabhaz&theme=tokyonight" alt="GitHub Profile Summary" width="95%"/>
 </p>
 
 ---
@@ -77,20 +77,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/suryaprabhas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/suryaprabhaz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://t.me/suryaprabhas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/suryaprabhaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:suryaprabhas83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-### 🔥 Motto & Vision
-
-> _"Pain whispers to those who listen."_
-> — **Itachi Uchiha**
-
 <p align="center">
-  🚀 <b>Let's build. Let's break. Let's learn.</b> <br>
-  💻 My GitHub profile is my living portfolio; explore my repositories and join me on this coding journey!
+  🚀 <b>Let's build. Let's break. Let's learn.</b><br>
+  💻 My GitHub is my living portfolio — explore my repos and join my coding journey!
 </p>
 
 <p align="center">
