@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 Profile Overview
-2nd-year **Computer Science** student at SCSVMV University. I prioritize reliability, performance, and clean logic in engineering. My development approach is centered on building tools that solve specific architectural problems rather than following framework trends.
+Computer Science student focused on systems engineering and performance. I prioritize reliability, performance, and clean logic in engineering. My development approach is centered on building tools that solve specific architectural problems rather than following framework trends.
 
 - 🛠️ **Engineering Mindset:** I build to break, learn, and rebuild for stability.
 - 📬 **Contact:** [suryaprabhas83@gmail.com](mailto:suryaprabhas83@gmail.com)
@@ -28,8 +28,8 @@
 
 ### 🔍 Currently Exploring
 - Browser internals & performance APIs
-- System-level monitoring concepts
-- Scalable frontend architecture
+- System-level diagnostics & performance modeling
+- Scalable frontend architecture patterns
 
 ---
 
@@ -75,6 +75,6 @@
 </p>
 
 <p align="center">
-  <b>Focused on building systems that explain themselves, not just look good.</b><br>
+  <b>Focused on building systems that explain themselves — not just look good.</b><br>
   <img src="https://komarev.com/ghpvc/?username=suryaprabhaz&style=flat-square&color=blue&label=TOTAL+VISITS"/>
 </p>
