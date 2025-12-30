@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Who Am I (No Fluff)
+## 🧠 Who Am I
 
 - 2nd-year **B.Tech CSE (AI & Data Science)** student at **SCSVMV University**
 - Interested in **backend systems, ML fundamentals, and scalable architectures**
