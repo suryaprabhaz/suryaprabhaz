@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 Profile Overview
-Computer Science student focused on systems engineering and performance. I prioritize reliability, performance, and clean logic in engineering. My development approach is centered on building tools that solve specific architectural problems rather than following framework trends.
+Computer science student focused on systems engineering, performance, and reliability under real-world constraints. I prioritize clean logic and structural integrity in engineering. My development approach is centered on building tools that solve specific architectural problems rather than following framework trends.
 
 - 🛠️ **Engineering Mindset:** I build to break, learn, and rebuild for stability.
 - 📬 **Contact:** [suryaprabhas83@gmail.com](mailto:suryaprabhas83@gmail.com)
@@ -28,7 +28,7 @@ Computer Science student focused on systems engineering and performance. I prior
 
 ### 🔍 Currently Exploring
 - Browser internals & performance APIs
-- System-level diagnostics & performance modeling
+- System-level diagnostics & runtime behavior modeling
 - Scalable frontend architecture patterns
 
 ---
@@ -63,6 +63,10 @@ Computer Science student focused on systems engineering and performance. I prior
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryaprabhaz&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprabhaz&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <sub>Actively building and iterating — not maintaining dead projects.</sub>
 </p>
 
 ---
