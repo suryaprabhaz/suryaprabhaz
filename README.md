@@ -7,33 +7,29 @@
 </p>
 
 <p align="center">
-  <a href="https://suryaprabhas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=flat-square"/></a>
+  <a href="https://suryaprabhas.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=flat-square"/>
+  </a>
   <img src="https://img.shields.io/badge/Academic-CSE%20(AIDS)-0077B5?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-success?style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3ZhdTV2ZzFiOXlxM2x6cjRkN2JiOGw4cmlncWxoYnF0aWVxaTh6ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1vohJMVMtjSQxmUot/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3ZhdTV2ZzFiOXlxM2x6cjRkN2JiOGw4cmlncWxoYnF0aWVxaTh6ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y1vohJMVMtjSQxmUot/giphy.gif" width="420"/>
 </p>
 
 ---
 
-### 🧠 Profile Overview
-Computer science student focused on systems engineering, performance, and reliability under real-world constraints. I prioritize clean logic and structural integrity in engineering. My development approach is centered on building tools that solve specific architectural problems rather than following framework trends.
+### 🧠 Profile Snapshot
+Focused on building system-level, performance-oriented applications with clean architecture and long-term maintainability in mind. Strong interest in backend internals, optimization, and scalable system design.
 
-- 🛠️ **Engineering Mindset:** I build to break, learn, and rebuild for stability.
-- 📬 **Contact:** [suryaprabhas83@gmail.com](mailto:suryaprabhas83@gmail.com)
-
----
-
-### 🔍 Currently Exploring
-- Browser internals & performance APIs
-- System-level diagnostics & runtime behavior modeling
-- Scalable frontend architecture patterns
+- ⚙️ Systems-first development mindset  
+- 🧠 Performance & reliability oriented  
+- 🧪 Architecture over abstraction  
 
 ---
 
-### 🧰 Technical Toolbox
+### 🧰 Technical Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,github,vscode&perline=4" />
 </p>
@@ -42,43 +38,43 @@ Computer science student focused on systems engineering, performance, and reliab
 
 ### 🚀 Featured Projects
 
-#### 📂 [FlixOrbit](https://github.com/suryaprabhaz/flixorbit)
-*Modern Movie Exploration Engine*
-* Optimized for high-frequency data fetching and dynamic DOM rendering.
-* **Stack:** JavaScript, HTML5, CSS3, REST APIs.
+🔹 **[SmartBill Pro](https://github.com/suryaprabhaz/smart-bill-pro)**  
+Production-grade billing & inventory management system built with FastAPI and a clean UI.
 
-#### 📂 SysPulse `[Private – Under Maintenance]`
-*System Intelligence & Diagnostics Platform*
-* Designed to simulate real-world system diagnostics using browser-level APIs.
-* **Stack:** HTML, CSS, JavaScript.
+🔹 **[FlixOrbit](https://github.com/suryaprabhaz/flixorbit)**  
+Modern movie discovery platform focused on performance and usability.
 
-#### 📂 CrushCompass `[Private – Under Maintenance]`
-*Anonymous Interaction Platform*
-* Built to test UX clarity and user behavior through anonymous interaction flows.
-* **Stack:** JavaScript, CSS, HTML.
+🔹 **SysPulse** *(Under Maintainence)*  
+Internal system diagnostics and monitoring toolkit.
 
 ---
 
 ### 📊 Performance & Metrics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryaprabhaz&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprabhaz&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryaprabhaz&show_icons=true&theme=tokyonight&border_radius=10" /> 
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprabhaz&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <sub>Actively building and iterating — not maintaining dead projects.</sub>
+  <sub>Actively building, iterating, and refining production-grade systems.</sub>
 </p>
 
 ---
 
 ### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/suryaprabhas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/suryaprabhas"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:suryaprabhas83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suryaprabhaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/suryaprabhas">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:suryaprabhas83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Focused on building systems that explain themselves — not just look good.</b><br>
-  <img src="https://komarev.com/ghpvc/?username=suryaprabhaz&style=flat-square&color=blue&label=TOTAL+VISITS"/>
+  <sub>Built with intent. Designed for longevity.</sub>
 </p>
+```
