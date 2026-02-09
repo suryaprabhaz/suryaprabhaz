@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://suryaprabhas.in/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=flat-square"/>
-  </a>
   <img src="https://img.shields.io/badge/Academic-CSE%20(AIDS)-0077B5?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-success?style=flat-square"/>
 </p>
