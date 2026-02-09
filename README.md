@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://suryaprabhas.netlify.app/">Phanindra Surya Prabhas</a>
+  <a href="https://suryaprabhas.in/">Phanindra Surya Prabhas</a>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://suryaprabhas.netlify.app/">
+  <a href="https://suryaprabhas.in/">
     <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=flat-square"/>
   </a>
   <img src="https://img.shields.io/badge/Academic-CSE%20(AIDS)-0077B5?style=flat-square"/>
@@ -22,22 +22,20 @@
 
 ### 🧠 About Me
 I focus on building **high-performance, system-oriented applications** with clean architecture and long-term scalability in mind.  
-My interests revolve around **backend engineering, optimization, and intelligent systems** rather than surface-level UI work.
+My interests revolve around **backend engineering, low-level optimization, and intelligent interaction systems**, not surface-level UI cloning.
+
+I care about how things **work under the hood**, how they **scale**, and how humans **interact with systems efficiently**.
 
 ---
 
 ### 🧩 Featured Projects
 
-🔹 **[ResuMatch AI](https://github.com/suryaprabhaz/resumatch-ai)**  
-AI-powered resume analysis platform that evaluates resumes against job descriptions and delivers actionable insights.  
-**Tech:** React, Flask, NLP, PDF Parsing  
-
-🔹 **[SmartBill Pro](https://github.com/suryaprabhaz/smart-bill-pro)**  
-Production-grade billing & inventory management system built with performance and scalability in mind.
+🔹 **[Gesture Drop](https://github.com/suryaprabhaz/gesture-drop)**  
+Hand-gesture–based interaction system that enables users to extract content on desktop and seamlessly place it onto mobile devices using natural hand gestures.  
+Designed with a focus on human–computer interaction, real-time gesture detection, and system-level event handling.
 
 🔹 **[FlixOrbit](https://github.com/suryaprabhaz/flixorbit)**  
-High-performance movie discovery platform focused on clean UI and fast client-side rendering.
-
+High-performance movie discovery platform focused on clean UI, fast client-side rendering, and smooth browsing experience.
 
 ---
 
