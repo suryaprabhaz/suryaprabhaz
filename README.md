@@ -1,96 +1,98 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Surya Prabhas — software developer profile" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Penumarthi Phanindra Surya Prabhas — developer profile"/>
 
-<p>
-  <a href="https://suryaprabhas.in/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/suryaprabhaz"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/suryaprabhaz"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=650&lines=CSE+%2B+AI+%26+Data+Science+student;Building+useful+software%2C+one+iteration+at+a+time;Computer+Vision+%7C+Systems+%7C+Web+Engineering" alt="Animated introduction"/>
+<a href="https://suryaprabhas.in/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+<a href="https://github.com/suryaprabhaz"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/suryaprabhaz"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
 
-[![Profile views](https://komarev.com/ghpvc/?username=suryaprabhaz&style=flat-square&color=6b7280&label=PROFILE+VIEWS)](https://github.com/suryaprabhaz)
-[![GitHub followers](https://img.shields.io/github/followers/suryaprabhaz?style=flat-square&color=6b7280&label=FOLLOWERS)](https://github.com/suryaprabhaz?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=C0C0C0&center=true&vCenter=true&width=720&lines=CSE+%7C+AI+%26+Data+Science;Building+software+with+purpose+and+precision;Systems+%E2%80%A2+Computer+Vision+%E2%80%A2+Web+Engineering" alt="Animated developer tagline"/>
+
+<img src="https://komarev.com/ghpvc/?username=suryaprabhaz&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/suryaprabhaz?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=FFFFFF&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
-## Hey, I'm Surya Prabhas
+---
 
-I'm a **3rd-year B.Tech CSE student specializing in AI & Data Science at SCSVMV**. I enjoy building software that blends practical engineering with thoughtful user experience — from computer-vision experiments and Windows utilities to interactive web apps and AI-powered tools.
+## 01 / About me
 
-I care about **shipping projects that work, explaining how they work, and polishing the details that make them dependable**. Currently strengthening my software engineering fundamentals while building and improving real projects.
+# Penumarthi Phanindra Surya Prabhas
 
-- **I build:** desktop tools, web apps, developer utilities, and AI/vision prototypes
-- **I work with:** Python, C++, Java, SQL, Git, and GitHub — plus JavaScript/TypeScript and project-specific stacks
-- **My mindset:** learn by building, test the edge cases, document the trade-offs
-- **Find me:** [Portfolio](https://suryaprabhas.in/) · [LinkedIn](https://www.linkedin.com/in/suryaprabhaz) · [Projects](https://github.com/suryaprabhaz?tab=repositories)
+I'm a **3rd-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence & Data Science at SCSVMV**. I enjoy turning ideas into useful software — from computer-vision experiments and Windows utilities to interactive web applications and AI-powered tools.
+
+My focus is on **clear engineering, thoughtful interfaces, dependable behavior, and projects I can explain from architecture to implementation**. I learn by building, testing edge cases, and iterating until the details feel right.
+
+- **Currently exploring:** software engineering, AI/ML, computer vision, and systems
+- **Core languages:** Python, C++, Java, SQL
+- **Tools:** Git, GitHub, and project-specific frameworks
+- **Approach:** understand the problem → design carefully → build → test → document
 
 ---
 
-## GitHub at a glance
+## 02 / GitHub analytics
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryaprabhaz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=9CA3AF&text_color=C9D1D9&icon_color=9CA3AF" alt="GitHub profile statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryaprabhaz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=C0C0C0&icon_color=C0C0C0" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprabhaz&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=9CA3AF&text_color=C9D1D9" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprabhaz&layout=compact&hide_border=true&langs_count=8&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=C0C0C0" alt="Most used languages"/>
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryaprabhaz&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suryaprabhaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=7&row=1" width="100%" alt="GitHub profile trophies"/>
 </a>
-
-</div>
 
 ### Contribution activity
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprabhaz&bg_color=00000000&color=C0C0C0&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprabhaz&bg_color=00000000&color=9CA3AF&line=9CA3AF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-<img src="https://streak-stats.demolab.com?user=suryaprabhaz&hide_border=true&background=00000000&ring=9CA3AF&fire=FFFFFF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=suryaprabhaz&hide_border=true&background=00000000&ring=C0C0C0&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=909090&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
-> Stats cards are generated by third-party services and may occasionally be unavailable, cached, or temporarily rate-limited. Language cards show language proportions in public repositories, not overall skill level.
+<sub>Analytics are generated by external services. They can be cached or temporarily unavailable; language percentages describe repository code, not a measurement of proficiency.</sub>
 
 ---
 
-## Featured projects
+## 03 / Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Gesture Drop
+
 **Computer Vision · Networking · Python**
 
-A gesture-driven desktop-to-mobile file transfer system.
+A gesture-driven desktop-to-mobile file transfer project.
 
 - Hand-gesture interaction
 - Local Flask transport
-- Input validation and automated API tests
-- Security-aware network model
+- Input validation and API tests
+- Security-aware network design
 
-[Explore repository →](https://github.com/suryaprabhaz/gesture-drop)
+[VIEW REPOSITORY ↗](https://github.com/suryaprabhaz/gesture-drop)
 
 </td>
 <td width="50%" valign="top">
 
 ### SuryaHUD
+
 **C# · .NET 8 · Win32 · Direct3D**
 
 A lightweight Windows FPS and system overlay.
 
 - Real-time frame monitoring
 - Direct3D/Direct2D rendering
-- Ping monitoring and WPF settings UI
-- Automated tests and Windows CI
+- Ping monitoring and WPF settings
+- Tests and Windows CI
 
-[Explore repository →](https://github.com/suryaprabhaz/fps-overlay)
+[VIEW REPOSITORY ↗](https://github.com/suryaprabhaz/fps-overlay)
 
 </td>
 </tr>
@@ -98,21 +100,23 @@ A lightweight Windows FPS and system overlay.
 <td width="50%" valign="top">
 
 ### ₹2 Smile Machine
+
 **Three.js · GSAP · Canvas**
 
-An interactive nostalgia experience inspired by old Indian railway-station coin machines.
+An interactive nostalgia experience inspired by Indian railway-station coin machines.
 
 - Procedural 3D machine
 - Interactive ticket generation
 - Procedural audio
 - Mobile safeguards and reduced-motion support
 
-[Explore repository →](https://github.com/suryaprabhaz/nostalgia-machine)
+[VIEW REPOSITORY ↗](https://github.com/suryaprabhaz/nostalgia-machine)
 
 </td>
 <td width="50%" valign="top">
 
 ### FlixOrbit
+
 **JavaScript · TMDB · UI Engineering**
 
 A responsive movie discovery experience.
@@ -122,7 +126,7 @@ A responsive movie discovery experience.
 - Streaming availability
 - Watchlist and keyboard-friendly UX
 
-[Explore repository →](https://github.com/suryaprabhaz/flixorbit)
+[VIEW REPOSITORY ↗](https://github.com/suryaprabhaz/flixorbit)
 
 </td>
 </tr>
@@ -130,20 +134,21 @@ A responsive movie discovery experience.
 <td width="50%" valign="top">
 
 ### DocuMind
+
 **AI · Document Management**
 
 An intelligent personal document management and assistant project.
 
-[Explore repository →](https://github.com/suryaprabhaz/Documind)
+[VIEW REPOSITORY ↗](https://github.com/suryaprabhaz/Documind)
 
 </td>
 <td width="50%" valign="top">
 
-### More experiments
+### More builds
 
-I keep exploring ideas across developer tools, interactive experiences, automation, and practical utilities.
+I also explore developer utilities, automation, interactive experiences, and practical software tools.
 
-[Browse all repositories →](https://github.com/suryaprabhaz?tab=repositories)
+[ALL REPOSITORIES ↗](https://github.com/suryaprabhaz?tab=repositories)
 
 </td>
 </tr>
@@ -151,53 +156,71 @@ I keep exploring ideas across developer tools, interactive experiences, automati
 
 ---
 
-## Tech stack
+## 04 / Technology
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
-**Tools & engineering**
+**TOOLS & FRAMEWORKS**
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-## How I approach engineering
+## 05 / Engineering principles
 
-| Principle | In practice |
-|---|---|
-| **Build for real use** | Solve a clear problem instead of adding features just for the demo. |
-| **Test the failure paths** | Invalid input, network errors, missing permissions, and edge cases matter. |
-| **Keep claims measurable** | Prefer working demos, tests, and reproducible results over inflated descriptions. |
-| **Make it understandable** | Clear setup instructions, architecture, and trade-offs are part of the product. |
-| **Finish with care** | Performance, accessibility, responsive layouts, and reduced-motion support count. |
+| PRINCIPLE | STANDARD |
+|:--|:--|
+| **Build with intent** | Solve a real problem instead of adding features for decoration. |
+| **Test failure paths** | Invalid input, network errors, permissions, and edge cases matter. |
+| **Keep claims honest** | Prefer working demos, tests, and reproducible results over inflated metrics. |
+| **Make it understandable** | Good documentation and clear trade-offs are part of the product. |
+| **Polish the details** | Performance, accessibility, responsive layouts, and reduced motion count. |
 
-## Currently
+---
 
-I'm working toward becoming a stronger software engineer by turning ideas into complete projects: **problem → design → implementation → testing → documentation → deployment**.
+## 06 / Connect
 
 <div align="center">
 
-### Thanks for visiting
+Reach out, explore my work, or connect on your preferred platform.
 
-<a href="https://suryaprabhas.in/"><img src="https://img.shields.io/badge/Explore_my_portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio"/></a>
-<a href="https://github.com/suryaprabhaz?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://suryaprabhas.in/"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/suryaprabhaz"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/suryaprabhaz/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
+<a href="https://t.me/suryaprabhas"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram"/></a>
+<a href="https://wa.me/917893136187"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp"/></a>
+<a href="mailto:suryaprabhas83@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
 
-<sub>Curiosity in. Better software out.</sub>
+<br/>
+
+**Website:** [suryaprabhas.in](https://suryaprabhas.in/)  
+**Instagram:** [@suryaprabhaz](https://www.instagram.com/suryaprabhaz/)  
+**Telegram:** [@suryaprabhas](https://t.me/suryaprabhas)  
+**WhatsApp:** [+91 78931 36187](https://wa.me/917893136187)  
+**Email:** [suryaprabhas83@gmail.com](mailto:suryaprabhas83@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub> PENUMARTHI PHANINDRA SURYA PRABHAS · BUILD WITH PURPOSE. SHIP WITH PRECISION. </sub>
 
 </div>
